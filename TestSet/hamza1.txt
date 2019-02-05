@@ -1,0 +1,15 @@
+age revenu etudiant credit achat 
+<=30 eleve non bon non
+<=30 eleve non excellent non 
+31-40 eleve non bon oui
+>40 moyen non bon oui
+>40 faible oui bon oui
+>40 faible oui excellent non
+31-40 faible oui excellent oui
+<=30 moyen non bon non
+<=30 faible oui bon oui
+>40 moyen oui bon oui
+<=30 moyen oui excellent oui
+31-40 moyen non excellent oui
+31-40 eleve oui bon oui
+>40 moyen non excellent non

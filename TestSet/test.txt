@@ -1,0 +1,5 @@
+Nom+++prenom+++ville+++age+++sexe
+hmadi+++hicham+++fes+++23+++M
+fahid+++sanaa+++taza+++19+++F
+labis+++tasil+++tantan+++23+++M
+gade+++fadi+++fes+++13+++M
